@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<troller>
+	<colors>
+		<carroceria>
+			<cor label="BRANCO ARTICO" rgb="0xdbdcde" id="0"/>
+			<cor label="PRATA GEADA" rgb="0xbabab7" id="1"/>
+			<cor label="CINZA OPTIC METALICO" rgb="0x6c6e6c" id="2"/>
+			<cor label="AMARELO" rgb="0xffae1a" id="3"/>
+			<cor label="LARANJA MARROCOS" rgb="0xe5771a" id="4"/>
+			<cor label="VERMELHO BARI" rgb="0x9a151f" id="5"/>
+			<cor label="AZUL ARAGON" rgb="0x19495b" id="6"/>
+			<cor label="VERDE SENEGAL" rgb="0x3d4927" id="7"/>
+			<cor label="PRETO MENDOZA" rgb="0x1e1e1e" id="8"/>
+		</carroceria>
+		<capota>
+			<cor label="BRANCO ARTICO" rgb="0xdbdcde" id="0"/>
+			<cor label="PRATA GEADA" rgb="0xbabab7" id="1"/>
+			<cor label="CINZA OPTIC METALICO" rgb="0x6c6e6c" id="2"/>
+			<cor label="AMARELO" rgb="0xffae1a" id="3"/>
+			<cor label="LARANJA MARROCOS" rgb="0xe5771a" id="4"/>
+			<cor label="VERMELHO BARI" rgb="0x9a151f" id="5"/>
+			<cor label="AZUL ARAGON" rgb="0x19495b" id="6"/>
+			<cor label="VERDE SENEGAL" rgb="0x3d4927" id="7"/>
+			<cor label="PRETO MENDOZA" rgb="0x1e1e1e" id="8"/>
+			<cor label="DOURADO GRANADA" rgb="0xd7cf62" id="9"/>
+			<cor label="PRETO SAHARA" rgb="0x252626" id="10"/>
+		</capota>
+	</colors>
+</troller>
+			
+			
